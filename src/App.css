@@ -2,6 +2,22 @@
   text-align: center;
 }
 
+.NavBar {
+  background-color: dodgerblue;
+  display: block;
+  color: aliceblue;
+  padding-left: 16px;
+}
+
+.Block-text{
+  font-size: 24px;
+  display: block;
+  width: 100%;
+  padding-left: 8px;
+}
+
+
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
